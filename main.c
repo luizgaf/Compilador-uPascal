@@ -9,12 +9,7 @@ typedef struct {
 } Token;
 
 Token getToken(){
-    char c = nextChar();
-    while (c != EOF){
-        switch(estado){
-            
-        }
-    }
+    
 }
 
 int main(){

@@ -1,0 +1,44 @@
+Operadores:
+
+    OP_EQ: =
+    OP_GE: >=
+    OP_MUL: *
+    OP_NE: <>
+    OP_LE: <=
+    OP_DIV: /
+    OP_GT: >
+    OP_AD: +
+    OP_ASS: =
+    OP_LT: <
+    OP_MIN: -
+
+Simbolos:
+    SMB_OBC: {
+    SMB_COM: ,
+    SMB_CBC: }
+    SMB_SEM: ;
+    SMB_OPA: (
+    SMB_CPA: )
+
+Palavras-chave: 
+    program
+    var
+    integer
+    real
+    begin
+    end
+    if
+    then
+    else
+    while
+    do
+
+Identificadores: 
+    ID
+
+ATENÇÂO:
+    As palavras-chave de MicroPascal são reservadas;
+    Toda variável deve ser declarada antes do seu uso;
+    A linguagem não permite o uso de comentários;
+    A semântica dos demais comandos e expressões e a tradicional do Pascal;
+    A linguagem não é case-sensitive;
