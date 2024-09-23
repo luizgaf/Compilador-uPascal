@@ -1,0 +1,8 @@
+program Exemplo5;
+var
+    a real; 
+begin
+    a := 2.5
+    if a > 1.0 then
+        writeln("Greater");
+end

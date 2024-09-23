@@ -1,0 +1,12 @@
+program Exemplo6;
+var
+    num: integer;
+begin
+    num := 10;
+    if num < 0 then
+    begin
+        writeln("Negative");
+    else  
+        writeln("Positive");
+    end;
+end.
